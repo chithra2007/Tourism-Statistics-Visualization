@@ -1,0 +1,34 @@
+
+Year,State,Tourist Place,Domestic Tourists,Foreign Tourists,Revenue,Season,Month,Category,District
+2022,Tamil Nadu,Ooty,450000,25000,1200,Winter,January,Hill Station,Nilgiris
+2022,Tamil Nadu,Kodaikanal,380000,18000,950,Summer,May,Hill Station,Dindigul
+2022,Tamil Nadu,Mahabalipuram,300000,22000,800,Winter,December,Historical,Chengalpattu
+2022,Goa,Baga Beach,520000,35000,1800,Summer,April,Beach,North Goa
+2022,Kerala,Munnar,420000,28000,1300,Monsoon,July,Hill Station,Idukki
+2022,Uttar Pradesh,Taj Mahal,650000,48000,2200,Winter,December,Historical,Agra
+2022,Delhi,Red Fort,380000,25000,1000,Winter,January,Historical,Delhi
+2022,Uttar Pradesh,Varanasi,320000,18000,750,Winter,November,Religious,Varanasi
+2023,Tamil Nadu,Ooty,500000,30000,1450,Winter,January,Hill Station,Nilgiris
+2023,Tamil Nadu,Kodaikanal,420000,22000,1100,Summer,May,Hill Station,Dindigul
+2023,Tamil Nadu,Mahabalipuram,350000,28000,950,Winter,December,Historical,Chengalpattu
+2023,Goa,Baga Beach,580000,40000,2000,Summer,April,Beach,North Goa
+2023,Kerala,Munnar,480000,30000,1500,Monsoon,July,Hill Station,Idukki
+2023,Uttar Pradesh,Taj Mahal,700000,55000,2500,Winter,December,Historical,Agra
+2023,Delhi,Red Fort,400000,28000,1100,Winter,January,Historical,Delhi
+2023,Uttar Pradesh,Varanasi,350000,20000,900,Winter,November,Religious,Varanasi
+2024,Tamil Nadu,Ooty,550000,32000,1600,Winter,January,Hill Station,Nilgiris
+2024,Tamil Nadu,Kodaikanal,460000,25000,1250,Summer,May,Hill Station,Dindigul
+2024,Tamil Nadu,Mahabalipuram,400000,32000,1100,Winter,December,Historical,Chengalpattu
+2024,Goa,Baga Beach,620000,42000,2200,Summer,April,Beach,North Goa
+2024,Kerala,Munnar,550000,36000,1750,Monsoon,July,Hill Station,Idukki
+2024,Uttar Pradesh,Taj Mahal,850000,70000,3200,Winter,December,Historical,Agra
+2024,Delhi,Red Fort,450000,32000,1250,Winter,January,Historical,Delhi
+2024,Uttar Pradesh,Varanasi,390000,24000,1050,Winter,November,Religious,Varanasi
+2025,Tamil Nadu,Ooty,600000,38000,1800,Winter,January,Hill Station,Nilgiris
+2025,Tamil Nadu,Kodaikanal,490000,25000,1300,Summer,May,Hill Station,Dindigul
+2025,Tamil Nadu,Mahabalipuram,450000,36000,1250,Winter,December,Historical,Chengalpattu
+2025,Goa,Baga Beach,700000,50000,2800,Summer,April,Beach,North Goa
+2025,Kerala,Munnar,620000,42000,2100,Monsoon,July,Hill Station,Idukki
+2025,Uttar Pradesh,Taj Mahal,950000,85000,3800,Winter,December,Historical,Agra
+2025,Delhi,Red Fort,480000,35000,1400,Winter,January,Historical,Delhi
+2025,Uttar Pradesh,Varanasi,420000,26000,1150,Winter,November,Religious,Varanasi
